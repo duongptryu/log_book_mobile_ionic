@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "native_day4",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
