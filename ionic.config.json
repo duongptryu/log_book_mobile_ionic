@@ -1,0 +1,7 @@
+{
+  "name": "native_day4",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
